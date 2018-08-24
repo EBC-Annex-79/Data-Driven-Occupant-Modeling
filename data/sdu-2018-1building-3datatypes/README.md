@@ -1,5 +1,6 @@
-A dataset covering occupant counts based on 3D stereo vision camera, damper openness to represent airflow into each room and CO2 concentration measured by in-room sensors
+# Dataset Description
 
+A dataset covering occupant counts based on 3D stereo vision camera, damper openness to represent airflow into each room and CO2 concentration measured by in-room sensors
 
 Time periode 2017-03-21 00:00:00 - 2017-04-05 23:59:00
 
