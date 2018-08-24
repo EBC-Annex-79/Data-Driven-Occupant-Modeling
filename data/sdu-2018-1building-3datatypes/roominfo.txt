@@ -1,0 +1,5 @@
+RoomID room-type size[m2] seating-capacity
+Room-1 lecture    139 84
+Room-2 study-zone 125 32
+Room-3 study-zone 125 32
+Room-4 lecture	  139 84
