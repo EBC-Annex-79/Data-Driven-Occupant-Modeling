@@ -10,11 +10,11 @@ Time: Time of day.
 Weekday: Weekday as a decimal number, where Monday is 0 and Sunday is 6.
 Holiday: 1 if national public holiday and 0 if not.
 
-File:              | Description:
-===================|============================================================
-roominfo.txt       | Room information
-co2_data_X.csv     | Room CO2 [ppm] for room X
-occ_data_X.csv 	   | Camera-based occupancy [persons] for room X
-vav_data_X.csv     | Damper openess (per room) [%] for room X
-brick_generator.py | Script for generating brick graph
-brick_graph.ttl    | Generated brick graph represented in the turtle format
+| File:              | Description: |
+|---|---|
+|roominfo.txt       | Room information |
+|co2_data_X.csv     | Room CO2 [ppm] for room X |
+|occ_data_X.csv 	| Camera-based occupancy [persons] for room X |
+|vav_data_X.csv     | Damper openess (per room) [%] for room X |
+|brick_generator.py | Script for generating brick graph |
+|brick_graph.ttl    | Generated brick graph represented in the turtle format |
