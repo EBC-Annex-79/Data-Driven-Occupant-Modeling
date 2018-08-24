@@ -16,10 +16,11 @@ A dataset covering occupant counts based on 3D stereo vision camera, damper open
 Time periode 2017-03-21 00:00:00 - 2017-04-05 23:59:00
 
 Contents of data files:
+
 | Label | Description |
 | --- | --- |
 | DayID | random generated identifier |
-|Time | Time of day |
-|Weekday | Weekday as a decimal number, where Monday is 0 and Sunday is 6 |
-|Holiday | 1 if national public holiday and 0 if not |
+| Time | Time of day |
+| Weekday | Weekday as a decimal number, where Monday is 0 and Sunday is 6 |
+| Holiday | 1 if national public holiday and 0 if not |
 
