@@ -13,7 +13,7 @@ A dataset covering occupant counts based on 3D stereo vision camera, damper open
 |basic_visualization.py    | Generate basic visualization of data in pdf |
 |data-descriptor.pdf | Detailed description of data |
 
-Time periode 2017-03-21 00:00:00 - 2017-04-05 23:59:00
+Time periode 2017-03-22 00:00:00 - 2017-04-05 23:59:00
 
 Contents of data files:
 
