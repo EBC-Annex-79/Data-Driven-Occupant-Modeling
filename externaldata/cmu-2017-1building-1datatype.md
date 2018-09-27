@@ -1,5 +1,8 @@
 # COD: A Dataset of Commercial Building Occupancy Traces
-
 Kin Sum Liu; Elvin Vindel Pinto; Sirajum Munir; Jonathan Francis; Charles Shelton; Mario Bergés; Shan Lin
+
+The Commercial Occupancy Dataset (COD) is a high-resolution long-term dataset of occupancy traces in a commercial office building spanning 9 months and covering room-level occupancy for three different spaces (two conference rooms and one open-plan space) containing more than 90,000 enter/exit events over this time period. Occupancy data in a building contains rich spatial-temporal information about the users and their usage of the space and facilities. However, obtaining accurate occupancy data is a very challenging task due to the limitation of existing sensing technologies. A novel depth-imaging based solution to estimate occupancy counts was deployed in four doorways of an office building to generate the dataset. We envision the dataset being used for diverse applications such as building energy simulation, occupancy modeling and human-in-the-loop HVAC control which enhance energy efficiency and human comfort.
+
+Each folder in the dataset represents data from a single building. Inside the folder there will be separate comma-separated value (CSV) files, one for each monitored room within the building. Each CSV file contains an entry for every entrance and exit events that was estimated by the sensor(s) corresponding to the room in question. In turn, each one of these entries in the dataset (i.e., each line in the file) contains three fields in this order: date (m/dd/yy), time (HH:MM:SS) and occupancy count.
 
 https://zenodo.org/record/996587#.W5VqVJMzbGI
