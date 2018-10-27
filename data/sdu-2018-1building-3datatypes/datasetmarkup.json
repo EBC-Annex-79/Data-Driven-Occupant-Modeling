@@ -17,7 +17,7 @@
      "name":"SDU Center for Energy Informatics",
      "contactPoint":{
         "@type":"ContactPoint",
-        "contactType": "Person",
+        "contactType": "technical support",
         "telephone":"+45 21972447",
         "email":"mbkj@mmmi.sdu.dk"
      }
