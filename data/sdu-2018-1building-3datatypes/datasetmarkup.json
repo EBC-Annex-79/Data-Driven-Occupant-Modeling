@@ -1,0 +1,42 @@
+    <script type="application/ld+json">
+{
+  "@context":"http://schema.org/",
+  "@type":"Dataset",
+  "name":"Room-level Occupant Counts, Airflow and CO2 Data",
+  "description":"A dataset covering occupant counts based on 3D stereo vision camera, damper openness to represent airflow into each room and CO2 concentration measured by in-room sensors
+  ",
+  "url":"https://github.com/EBC-Annex-79/Data-Driven-Occupant-Modeling/tree/master/data/sdu-2018-1building-3datatypes",
+  "keywords":[
+     "BUILDINGS > Data > Occupant Presence count",
+     "BUILDINGS > Data > Damper position",
+     "BUILDINGS > Data > Room CO2"
+  ],
+  "creator":{
+     "@type":"Organization",
+     "url": "https://www.sdu.dk/en/om_sdu/institutter_centre/centreforenergyinformatics",
+     "name":"SDU Center for Energy Informatics",
+     "contactPoint":{
+        "@type":"ContactPoint",
+        "contactType": "Person",
+        "telephone":"+45 21972447",
+        "email":"mbkj@mmmi.sdu.dk"
+     }
+  },  
+  "distribution":[
+     {
+        "@type":"DataDownload",
+        "encodingFormat":"CSV",
+        "contentUrl":"https://github.com/EBC-Annex-79/Data-Driven-Occupant-Modeling/tree/master/data/sdu-2018-1building-3datatypes"
+     }
+  ],
+  "temporalCoverage":"2017-03-22/2017-04-05",
+  "spatialCoverage":{
+     "@type":"Place",
+     "geo":{
+        "@type":"GeoCoordinates",
+        "latitude": 55.367336,
+        "longitude": 10.430694        
+     }
+  }
+}
+</script>
