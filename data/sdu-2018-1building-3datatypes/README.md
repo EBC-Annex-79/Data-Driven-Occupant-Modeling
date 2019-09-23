@@ -48,4 +48,4 @@ To cite the dataset and paper:
 
 ### License
 
-The license for all the data in this repository is CC-BY-4.0
+The license for all the data is CC-BY-4.0
