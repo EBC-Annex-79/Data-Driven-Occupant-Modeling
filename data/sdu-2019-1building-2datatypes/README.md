@@ -10,3 +10,6 @@ An inspiration dataset covering occupant people tracking based on 3D stereo visi
 |upsample.py 	| Script to combine raw data traces |
 |XOVIS_UWB.csv | Combined data |
 |Xovis_Uwb.png    | Plots of data (left Xovis and right UWB tags |
+
+### License
+The license for all the data is CC-BY-4.0
