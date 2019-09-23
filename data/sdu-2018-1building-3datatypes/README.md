@@ -45,3 +45,7 @@ To cite the dataset and paper:
  keywords = {CO2, data, occupant sensing},
 } 
 ```
+
+### License
+
+The license for all the data in this repository is CC-BY-4.0
